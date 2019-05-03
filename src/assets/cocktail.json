@@ -1,0 +1,52 @@
+[
+    {
+        "nom": "Mojito",
+        "price": "3.60$",
+        "img": "https://boiremixologie.com/files/medias/_thumb/mojito.jpg"
+    },
+    {
+        "nom": "Martini",
+        "price": "3.70$",
+        "img": "https://boiremixologie.com/files/medias/_thumb/capture-ecran-martini.jpg"
+    },
+    {
+        "nom": "Manhattan",
+        "price": "3.70$",
+        "img": "https://boiremixologie.com/files/medias/_thumb/cocktail-manhattan-boire.jpg"
+    },
+    {
+        "nom": "Margarita",
+        "price": "3.80$",
+        "img": "https://boiremixologie.com/files/medias/_thumb/margarita.jpg"
+    },
+    {
+        "nom": "Rhum & Coke",
+        "price": "4.10$",
+        "img": "https://boiremixologie.com/files/medias/_thumb/sirop_tonic_cola.jpg"
+    },
+    {
+        "nom": "Gin Tonic",
+        "price": "4.10$",
+        "img": "https://boiremixologie.com/files/medias/_thumb/gin-tonique.jpg"
+    },
+    {
+        "nom": "Sidecar",
+        "price": "4.10$",
+        "img": "https://boiremixologie.com/files/medias/_thumb/cocktail-sidecar.jpg"
+    },
+    {
+        "nom": "Negroni",
+        "price": "4.20$",
+        "img": "https://boiremixologie.com/files/medias/_thumb/Cocktail-gin-vermouth-campari.jpg"
+    },
+    {
+        "nom": "Cosmopolitain",
+        "price": "4.20$",
+        "img": "https://boiremixologie.com/files/medias/_thumb/cocktail-cosmopolitain-boire.jpg"
+    },
+    {
+        "nom": "SPECIAL FOR WILDER ONLY: Old Fashioned",
+        "price": "2$",
+        "img": "https://boiremixologie.com/files/medias/_thumb/Old-fashioned.jpg"
+    }
+]

@@ -1,0 +1,18 @@
+<h1 class="col-12 titre1">Cocktail Party!</h1>
+<div *ngFor="let cocktail of cocktails">
+<div class="container">
+    <div class="row">
+  
+      <h3 class="col-6 titre"> {{cocktail.nom}}</h3>
+  
+      <div class="fondes col-12">
+        <p class="offset-5 col-2 theme">{{cocktail.price}}</p>
+      </div>
+      <img class="backImg col-5" src="{{cocktail.img}}">
+        
+      
+      </div>
+    </div>
+    <hr>
+  </div>
+  

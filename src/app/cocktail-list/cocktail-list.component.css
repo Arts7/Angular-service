@@ -1,0 +1,61 @@
+.row{
+    justify-content: center;
+    text-align: center;
+}
+
+.backImg{
+    background-color: chocolate;
+    
+    opacity: 0.9;
+    border-width: 5px;
+    border-color: blue;
+    border-style: double;
+    border-radius: 10px;
+}
+
+img{
+    border-width: 5px;
+    border-color: blue;
+    border-style: double;
+    border-radius: 10px;
+    padding: 0;
+}
+
+.theme{
+    color: chocolate;
+    font-weight: bold;
+    background-color: darkblue;
+    padding: 1%;
+    border-width: 7px;
+    border-color: chocolate;
+    border-style: double;
+    border-radius: 10px;
+}
+
+.titre1{
+    text-align: center;
+    color: black;
+    margin-top: 2%;
+    font-size: 4rem;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+
+.titre{
+    
+    margin-bottom: 2%;
+    font-size: 3rem;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-weight: bold;
+    background-color: chocolate;
+    border-width: 7px;
+    border-color: blue;
+    border-style: double;
+    border-radius: 10px;
+}
+
+hr{
+    margin: 5%;
+    border-color: black;
+}
